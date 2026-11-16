@@ -27,9 +27,9 @@ System.out.println(response.body());
     }catch (Exception e){
     System.out.println("Cep invalido!!!"+e.getMessage());    
         
-   System.out.printf("Wilgner Mateus silfer - 0025265");        
+      
         
     }
-      
+      System.out.printf("Wilgner Mateus silfer - 0025265"); 
   }
 }
